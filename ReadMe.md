@@ -1,0 +1,1 @@
+﻿# Chocolatey Package for Lenovo Migration Assistant

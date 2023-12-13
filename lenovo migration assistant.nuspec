@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>Lenovo Migration Assistant</id>
+    <version>2.1.4.6</version>
+    <title>Lenovo Migration Assistant</title>
+    <authors>Lenovo</authors>
+    <owners>fmotzet</owners>
+    <!-- projectUrl is required for the community feed -->
+    <projectUrl>https://www.lenovo.com/us/en/software/lenovo-migration-assistant//</projectUrl>
+    <tags>Lenovo Migration Assistant</tags>
+    <summary>An Application to help seamlessly move files and settings from your old PC to your new one.</summary>
+    <description>Use your WiFi connection instead of external drives to move the files and settings you want to keep. Simple instructions make it easy to duplicate your favorite settings on your new PC. Lenovo Migration Assistant helps transfer your files safely.</description>
+    <iconUrl>TODO</iconUrl>
+    <dependencies> <dependency id="" version="Windows 10 (32-bit) Windows 10 (64-bit) Windows 11 (64-bit) Windows 7 (32-bit) Windows 7 (64-bit)" /></dependencies>
+    <packageSourceUrl>https://github.com/fmotzet/Chocolatey-Lenovo-Migration-Assistant</packageSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

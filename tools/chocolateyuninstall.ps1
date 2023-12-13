@@ -20,8 +20,8 @@ $packageArgs = @{
   #validExitCodes= @(0, 3010, 1605, 1614, 1641) # https://msdn.microsoft.com/en-us/library/aa376931(v=vs.85).aspx
   # OTHERS
   # Uncomment matching EXE type (sorted by most to least common)
-  silentArgs   = '/S'           # NSIS
-  #silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' # Inno Setup
+  #silentArgs   = '/S'           # NSIS
+  silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' # Inno Setup
   #silentArgs   = '/s'           # InstallShield
   #silentArgs   = '/s /v"/qn"'   # InstallShield with MSI
   #silentArgs   = '/s'           # Wise InstallMaster

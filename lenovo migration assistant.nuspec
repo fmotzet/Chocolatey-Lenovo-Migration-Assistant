@@ -12,7 +12,7 @@
     <tags>Lenovo Migration Assistant</tags>
     <summary>An Application to help seamlessly move files and settings from your old PC to your new one.</summary>
     <description>Use your WiFi connection instead of external drives to move the files and settings you want to keep. Simple instructions make it easy to duplicate your favorite settings on your new PC. Lenovo Migration Assistant helps transfer your files safely.</description>
-    <iconUrl>https://github.com/fmotzet/Chocolatey-Lenovo-Migration-Assistant/blob/main/lenovo-migration-assistant.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/fmotzet/Chocolatey-Lenovo-Migration-Assistant/f2215238b7af002d5585ec6a49de328687d5b17b/lenovo-migration-assistant.png</iconUrl>
     <dependencies> <dependency id="" version="Windows 10 (32-bit) Windows 10 (64-bit) Windows 11 (64-bit) Windows 7 (32-bit) Windows 7 (64-bit)" /></dependencies>
     <packageSourceUrl>https://github.com/fmotzet/Chocolatey-Lenovo-Migration-Assistant</packageSourceUrl>
   </metadata>
